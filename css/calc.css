@@ -1,0 +1,22 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    font-family: monospace;
+    font-size: 32px;
+}
+
+table td {
+    width: 55px;
+    height: 55px;
+    background-color: lightgray;
+    border: 1px solid white;
+
+    text-align: center;
+    color: darkslategray;
+}
