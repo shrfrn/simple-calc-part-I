@@ -19,4 +19,5 @@ table td {
 
     text-align: center;
     color: darkslategray;
+    cursor: pointer;
 }
