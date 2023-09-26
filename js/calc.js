@@ -1,5 +1,5 @@
 'use strict'
 
-function onNumClick() {
-    console.log('Hi')
+function onNumClick(elCell) {
+    console.log(elCell.innerText)
 }
